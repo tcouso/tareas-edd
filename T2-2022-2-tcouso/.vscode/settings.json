@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "tree.h": "c",
+        "type_traits": "c",
+        "cmath": "c",
+        "limits": "c",
+        "typeinfo": "c"
+    }
+}
